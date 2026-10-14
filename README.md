@@ -1,4 +1,13 @@
-# win_iso_build
+# win_iso_build — Carson's Fork (Retired)
+
+> [!NOTE]
+> **This fork is retired / no longer maintained by me.** I borrowed this project, considered doing something with it, went back to Linux, and basically forgot I had the fork. 🤣 I'm not planning to actively develop or maintain my copy, so don't expect Carson-specific updates or fixes.
+
+This is a fork of the original project, not my original work. Retiring my fork does **not** mean the upstream project is retired. For the original project and its development, visit [adavak/win_iso_build](https://github.com/adavak/win_iso_build).
+
+I'm keeping this repository and its existing files available as a record of the experiment. Workflows and instructions may become outdated; check the upstream repository for the latest information.
+
+---
 
 [中文说明](https://github.com/adavak/win_iso_build/blob/main/README_cn.md)
 
